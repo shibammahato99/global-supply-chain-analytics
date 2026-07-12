@@ -1,6 +1,6 @@
 # 🚚 Global Supply Chain Analytics
 
-`PostgreSQL` · `Power Query (ETL)` · `Tableau`
+`SQL (PostgreSQL)` · `MS EXCEL- Power Query (ETL)` · `Tableau Public`
 
 ---
 
@@ -69,33 +69,17 @@ Built a single workbook containing four linked dashboards — **Overview KPIs**,
 
 ## Dashboard Preview
 
-
 ### Overview KPIs
 ![Overview Dashboard](Screenshots/Overview.png)
 
 ### Logistics & Delivery Performance
-![Overview Dashboard](Screenshots/Logistics_and_Performance.png)
+![Overview Dashboard](Screenshots/Logistics.png)
 
 ### Customer & Geographic Insights
-
-
+![Overview Dashboard](Screenshots/Customers.png)
 
 ### Profitability & Margin Analysis
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Overview Dashboard](Screenshots/Profitability.png)
 
 
 ## ✅ Conclusion
