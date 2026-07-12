@@ -48,6 +48,16 @@ Built a single workbook containing four linked dashboards — **Overview KPIs**,
 
 ---
 
+## 🏗️ Workflow and Architecture 
+### 1. Workflow
+![Project Workflow](Workflow/Workflow.png)
+
+### 2. Architecture
+![Project Workflow](Workflow/Architecture.png)
+
+
+---
+
 ## 🔍 Key Insights
 
 **Baseline Performance**
