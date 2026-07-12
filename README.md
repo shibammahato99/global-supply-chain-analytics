@@ -71,7 +71,7 @@ Built a single workbook containing four linked dashboards — **Overview KPIs**,
 
 
 ### Overview KPIs
-Screenshots/Overview.png
+![Overview Dashboard](Screenshots/Overview.png)
 
 ### Logistics & Delivery Performance
 
