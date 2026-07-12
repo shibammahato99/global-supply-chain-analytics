@@ -1,6 +1,6 @@
 # 🚚 Global Supply Chain Analytics
 
-`SQL (PostgreSQL)` · `Microsoft Excel- Power Query (ETL)` · `Tableau Public`
+`SQL (PostgreSQL)` · `Microsoft Excel-Power Query (ETL)` · `Tableau Public`
 
 ---
 
