@@ -67,6 +67,37 @@ Built a single workbook containing four linked dashboards — **Overview KPIs**,
 
 ---
 
+## Dashboard Preview
+
+
+### Overview KPIs
+Screenshots/Overview.png
+
+### Logistics & Delivery Performance
+
+
+### Customer & Geographic Insights
+
+
+
+### Profitability & Margin Analysis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## ✅ Conclusion
 
 This project converted 50,000+ raw order-line records into a structured, decision-ready view of a global supply chain's delivery reliability and profitability. Establishing the data's true grain early shaped every downstream KPI, and every dashboard finding traces back to a specific, verifiable SQL query rather than an assumption.
