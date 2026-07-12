@@ -67,20 +67,21 @@ Built a single workbook containing four linked dashboards — **Overview KPIs**,
 
 ---
 
-## Dashboard Preview
+## 📊 Dashboard Preview
 
-### Overview KPIs
+### 1. Overview
 ![Overview Dashboard](Screenshots/Overview.png)
 
-### Logistics & Delivery Performance
+### 2. Logistics & Delivery Performance
 ![Overview Dashboard](Screenshots/Logistics.png)
 
-### Customer & Geographic Insights
+### 3. Customer & Geographic Insights
 ![Overview Dashboard](Screenshots/Customers.png)
 
-### Profitability & Margin Analysis
+### 4. Profitability & Margin Analysis
 ![Overview Dashboard](Screenshots/Profitability.png)
 
+---
 
 ## ✅ Conclusion
 
